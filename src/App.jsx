@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Home from './components/Home'
-import Play from './components/play'
+import Play from './components/Play'
 
 function App() {
   const [start, setStart] = useState(false)
